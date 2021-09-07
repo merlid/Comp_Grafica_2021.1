@@ -7,9 +7,9 @@ cores = ( (1,0,0),(1,1,0),(0,1,0),(0,1,1),(0,0,1),(1,0,1),(0.5,1,1),(1,0,0.5) ) 
 a = 0
 
 n = 50 # número de lados do prisma
-r = 4 # raio da base do prisma
+r = 3 # raio da base do prisma
 
-top = (0, 6, 0) # coordenadas do topo do prisma
+top = (0, 5, 0) # coordenadas do topo do prisma
 pontos = []
 
 def base(): # desenha a base do prisma
