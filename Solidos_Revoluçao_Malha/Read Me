@@ -1,0 +1,9 @@
+O programa nesta pasta desenha 3 tipos de sólidos de revolução (Esfera, Parabolóide e Torus), os 3 preenchidos e coloridos.
+
+Para escolher qual sólido desenhar, basta ir na função “desenha”, descomentar a função que desenha o sólido desejado e comentar as outras 2 funções. 
+
+“desenhaEsfera()" - Desenha a Esfera
+“desenhaTorus()” - Desenha o Torus
+“desenhaParaboloide()” - Desenha o Parabolóide
+
+Parâmetros como o número de passos dos desenhos e o raio dos sólidos podem ser encontrados e alterados no início do código.  
