@@ -1,0 +1,8 @@
+O programa nesta pasta desenha 2 tipos de funções implícitas (Parabolóide Circular e Parabolóide Hiperbólico), ambos preenchidos e coloridos.
+
+Para escolher qual parabolóide desenhar, basta ir na função “desenha”, descomentar a função que desenha o parabolóide desejado e comentar a outra função.
+
+“desenhaCirc()“ - Desenha o Parabolóide Circular
+“desenhaHiper()” - Desenha o Parabolóide Hiperbólico
+
+Parâmetros como o número de passos dos desenhos e os intervalos de X e Y usados podem ser encontrados e alterados no início do código.  
