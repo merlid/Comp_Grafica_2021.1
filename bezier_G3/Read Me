@@ -1,0 +1,5 @@
+O programa nesta pasta desenha uma curva de Bezier de grau 3.
+
+Um dos pontos que define o formato da curva é controlado pela posição do mouse. 
+
+Os outros 3 pontos e suas coordenadas podem ser encontrados e alterados no início do código.
