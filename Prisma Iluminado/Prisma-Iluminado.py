@@ -61,7 +61,7 @@ def reshape(w,h):
     gluLookAt( 10,0,0, 0,0,0,     0,1,0 )
 
 def init():
-    mat_ambient = (0.5, 0.0, 0.0, 1.0)
+    mat_ambient = (0.5, 0.5, 0.5, 1.0)
     mat_diffuse = (0.0, 0.0, 1.0, 1.0)
     mat_specular = (1.0, 0.5, 0.5, 1.0)
     mat_shininess = (60,)
