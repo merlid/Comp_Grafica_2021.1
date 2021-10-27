@@ -1,0 +1,6 @@
+Coelho.ply
+
+O programa nesta pasta lê um arquivo .ply e desenha o objeto 3D na tela.
+
+IMPORTANTE: O programa é “hard coded” para esse arquivo específico, ou seja, ele não funcionará com outros arquivos .ply, 
+a menos que o range do for da linha 21 seja alterado para o número de faces do novo arquivo .ply e todas as faces desse novo arquivo sejam triângulos. 
