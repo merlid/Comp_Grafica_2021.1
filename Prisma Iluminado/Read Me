@@ -1,0 +1,6 @@
+Prisma Iluminado
+
+O programa nesta pasta desenha um prisma de N lados num ambiente com uma luz. 
+Durante a rotação do prisma, ele é iluminado (cor azul) ou apagado (cor cinza)
+
+Parâmetros como o número de lados e o raio da base podem ser encontrados e alterados no início do código. 
