@@ -1,0 +1,7 @@
+Sistema Solar com Textura
+
+O programa nesta pasta desenha 3 esferas de tamanhos, posições e rotações diferentes, simulando um sistema solar contendo apenas o sol, a terra e a lua.
+
+Além disso, o programa aplica uma textura específica em cada uma das esferas, “sol.png”, “terra.png” e “lua.png”.
+
+IMPORTANTE: O programa depende das texturas para funcionar, então mantenha todos eles na mesma pasta. 
